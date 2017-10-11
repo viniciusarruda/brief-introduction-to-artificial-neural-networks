@@ -4,8 +4,12 @@
 
 ```
 |- Flappy Bird
-	|- FlappyBird-For-Play: Version for playing the Flappy Bird with same settings used to train the ANN. To run, just run `main.py`.
-	|- FlappyBird-GA-ANN: Version for training an ANN with GA to play Flappy Bird. To run, just run `main.py`.
+	|- FlappyBird-For-Play: 
+		Version for playing the Flappy Bird with same settings
+		used to train the ANN. To run, just run `main.py`.
+	|- FlappyBird-GA-ANN: 
+		Version for training an ANN with GA to play Flappy Bird.
+		To run, just run `main.py`.
 |- Logic Gates
 	|- or.py: Manually trained network to classify the or data.
 	|- xor.py: Manually trained network to classify the xor data.
