@@ -16,5 +16,5 @@
 |- README.md: This readme file.
 ```
 
-For further information, read the article posted on [my website](https://viniciusarruda.github.io/projects/brief-introduction-ann/).
+For further information, read the article posted on [medium](https://medium.com/@viniciusarruda/a-brief-introduction-to-artificial-neural-networks-7c74e5344bf8).
 
